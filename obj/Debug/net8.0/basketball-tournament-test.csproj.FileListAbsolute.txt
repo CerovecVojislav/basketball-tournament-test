@@ -1,0 +1,17 @@
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\basketball-tournament-test.exe
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\basketball-tournament-test.deps.json
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\basketball-tournament-test.runtimeconfig.json
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\basketball-tournament-test.dll
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\basketball-tournament-test.pdb
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.AssemblyInfoInputs.cache
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.AssemblyInfo.cs
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.csproj.CoreCompileInputs.cache
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.dll
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\refint\basketball-tournament-test.dll
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.pdb
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.genruntimeconfig.cache
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\ref\basketball-tournament-test.dll
+D:\projekti\cdbhnd\basketball-tournament-test\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketball-tournament-test.csproj.AssemblyReference.cache
+D:\projekti\cdbhnd\basketball-tournament-test\obj\Debug\net8.0\basketba.DBA6F366.Up2Date

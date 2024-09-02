@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QShlTq8Oz8=",
+  "success": true,
+  "projectFilePath": "D:\\projekti\\cdbhnd\\basketball-tournament-test\\basketball-tournament-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Voja\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
