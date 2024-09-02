@@ -30,7 +30,7 @@ class GroupBoard{
         }
     }
 
-    public static void Print(List<TeamScore> groupPhase){
+    public static List<TeamScore> Print(List<TeamScore> groupPhase){
         groupPhase = groupPhase.OrderByDescending(o => o.ScoreDifference).ToList();
         groupPhase = groupPhase.OrderByDescending(o => o.ScoredPoints).ToList();
         groupPhase = groupPhase.OrderByDescending(o => o.Win).ToList();
@@ -55,7 +55,7 @@ class GroupBoard{
             Console.WriteLine();
             position++;
         }
-
+    return groupPhase;
     }
 
 }

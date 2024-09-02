@@ -15,8 +15,10 @@ class Program
 
         GroupPhase.Play(groups, exibitions, groupPhase);
 
-        GroupBoard.Print(groupPhase);
+        groupPhase = GroupBoard.Print(groupPhase);
+        
+        List<Group> bracketGroups = TournamentBracket.Create(groupPhase, groups);
 
-
+        TournamentBracket.Play(bracketGroups, exibitions);
     }
 }
